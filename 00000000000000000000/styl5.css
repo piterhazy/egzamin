@@ -1,0 +1,61 @@
+body{
+    font-family: Tahoma;
+   
+}
+.lewy{
+    background-color: rosybrown;
+    color: white;
+    width: 30%;
+    height: 200px;
+    float: left;
+    
+}
+.prawy{
+    background-color: rosybrown;
+    color: white;
+    width: 30%;
+    height: 200px;
+    float: left;
+    
+}
+.srodkowy{
+    background-color: rosybrown;
+    color: white;
+    width: 40%;
+    height: 200px;
+    text-align: center;
+    float: left;
+}
+.glowny{
+    background-color: wheat;
+      
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    clear: both;
+    
+}
+.stopka{
+    background-color: rosybrown;
+    color: white;
+    text-align: center;
+    height: auto;
+    clear: both;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    /* Prawdopodobie w arkuszu jest błąd bo nie da się ustawić
+    stopki tak jak na rysyunku na tych wytyczny , mozna to zrobic po zwiekszeniu paddingu */  
+    
+}
+
+#kwer{
+    border: solid 2px darkred;
+    background-color: salmon;
+    padding: 20px 20px 20px 20px;
+    line-height: 200px;
+
+
+}
